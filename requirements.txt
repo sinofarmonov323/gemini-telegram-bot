@@ -1,0 +1,2 @@
+osonbot
+google-genai
